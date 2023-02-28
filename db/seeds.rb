@@ -1,4 +1,5 @@
 puts "🌱 Seeding data..."
+require "faker"
 
 # Make 10 users
 10.times do
